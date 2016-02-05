@@ -15,5 +15,10 @@ This Android Studio Theme (or IntelliJ in general) is based on many IDEs.
 
 Once you have downloaded the .jar file, go to File -> Import Settings... and choose the file downloaded.
 
+# some font setting 
+- use MonacoB font as primary font 
+- font size 8 
+- line spacing 1.2
+
 
 
